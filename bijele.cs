@@ -2,7 +2,7 @@ using System;
 
 // https://open.kattis.com/problems/bijele
 
-namespace ConsoleApp
+namespace Bijele
 {
     class Program
     {
