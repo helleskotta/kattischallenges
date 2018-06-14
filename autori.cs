@@ -1,8 +1,8 @@
 using System;
 
-// https://open.kattis.com/submissions/2913074
+// https://open.kattis.com/problems/autori
 
-namespace ConsoleApp
+namespace Autori
 {
     class Program
     {
