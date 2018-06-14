@@ -2,7 +2,7 @@ using System;
 
 // https://open.kattis.com/problems/twostones
 
-namespace ConsoleApp
+namespace TwoStones
 {
     class Program
     {
