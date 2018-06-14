@@ -27,4 +27,4 @@ namespace ConsoleApp
             Console.WriteLine($"{king} {queen} {rooks} {bishops} {knights} {pawns}");
         }
     }
-}x
+}
