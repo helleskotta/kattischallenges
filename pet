@@ -1,0 +1,32 @@
+using System;
+
+// https://open.kattis.com/problems/pet
+
+namespace Pet
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int maxPoint = 0;
+            int index = 0;
+
+            for (int i = 0; i < 5; i++)
+            {
+                string[] line = Console.ReadLine().Split(' ');
+
+                var point = 0;
+
+                foreach (var item in line)
+                    point += Convert.ToInt32(item);
+
+                if (point > maxPoint)
+                {
+                    maxPoint = point;
+                    index = i + 1;
+                }
+            }
+            Console.WriteLine($"{index} {maxPoint}");
+        }
+    }
+}
