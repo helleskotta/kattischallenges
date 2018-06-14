@@ -2,7 +2,7 @@ using System;
 
 // https://open.kattis.com/problems/cold
 
-namespace ConsoleApp
+namespace ColdputerScience
 {
     class Program
     {
