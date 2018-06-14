@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Linq;
 
 // https://open.kattis.com/problems/sellingspatulas
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Failing the second test case
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Failing the second test case
 
 namespace SellingSpatulas
 {
